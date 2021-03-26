@@ -1,7 +1,7 @@
 ---
 title: ArcGIS Online Administration
 layout: default
-nav_order: 1
+nav_order: 2
 ---
 
 # What is ArcGIS Online

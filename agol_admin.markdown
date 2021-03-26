@@ -1,5 +1,5 @@
 ---
-title: ArcGIS Online Administration
+title: ArcGIS Online
 layout: default
 nav_order: 2
 ---
